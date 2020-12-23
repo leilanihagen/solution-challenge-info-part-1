@@ -1,4 +1,4 @@
-# solution-challenge-info-part-1
+# PSU DSC Solution Challenge Info Session - Part 1
 
 The PSU DSC's first Solution Challenge Info Session! This event introduces you to the most exciting part of being a DSC member: participating in the nationwide Google Solution Challenge!
 
